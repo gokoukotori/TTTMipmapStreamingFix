@@ -1,0 +1,6 @@
+{
+  "name": "com.gokoukotori.ttt-mipmap-streaming-fix.editor",
+  "rootNamespace": "Gokoukotori.TTTMipmapStreamingFix",
+  "references": ["nadena.dev.ndmf"],
+  "includePlatforms": ["Editor"]
+}

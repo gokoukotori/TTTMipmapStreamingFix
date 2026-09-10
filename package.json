@@ -1,0 +1,12 @@
+{
+  "name": "com.gokoukotori.ttt-mipmap-streaming-fix",
+  "displayName": "TTT Mipmap Streaming Fix",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Enables mipmap streaming on TTT-generated textures before VRCFury processing to preserve deferred texture compression.",
+  "author": { "name": "gokoukotori" },
+  "vpmDependencies": {
+    "nadena.dev.ndmf": ">=1.14.8 <2.0.0",
+    "net.rs64.tex-trans-tool": "1.1.0-beta.9"
+  }
+}
